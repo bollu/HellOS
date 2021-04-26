@@ -1,6 +1,6 @@
 # HellOS
 
-Bare bones "hello world" i386 kernel written in [Zig](https://ziglang.org/).
+Bare bones "hello world" i386 kernel (8086) written in [Zig](https://ziglang.org/).
 
 ## Building
 
